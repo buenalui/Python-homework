@@ -1,0 +1,7 @@
+Financial Analysis
+--------------------------------------------------
+The total number of months: 86
+The net profit: $38,382,578
+The average change: $-2,315.12
+The greatest gain: Feb-2012 ($1,170,593)
+The greatest loss: Sep-2013 ($-1,196,225)
